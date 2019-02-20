@@ -1,0 +1,31 @@
+{
+  "name": "ev-test-post",
+  "version": "1.0.0",
+  "description": "Test E-Vernehmlassung",
+  "main": "false",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbaechler/ev-test-post.git"
+  },
+  "author": "b@chler.com",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/sbaechler/ev-test-post/issues"
+  },
+  "homepage": "https://github.com/sbaechler/ev-test-post#readme",
+  "dependencies": {
+    "marked": "^0.6.1",
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  },
+  "devDependencies": {
+    "raw-loader": "^1.0.0"
+  }
+}
