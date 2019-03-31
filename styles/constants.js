@@ -6,4 +6,9 @@ export const color = {
   heading: '#000',
 }
 
+export const font = {
+  size: {
+    base: '1.3rem',
+  }
+}
 

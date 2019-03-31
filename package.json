@@ -19,6 +19,9 @@
     "url": "https://github.com/sbaechler/ev-test-post/issues"
   },
   "homepage": "https://github.com/sbaechler/ev-test-post#readme",
+  "eslint": {
+    "packageManager": "yarn"
+  },
   "dependencies": {
     "marked": "^0.6.1",
     "next": "^8.0.1",
