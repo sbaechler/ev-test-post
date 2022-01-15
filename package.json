@@ -23,7 +23,7 @@
     "packageManager": "yarn"
   },
   "dependencies": {
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "next": "^11.1.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
